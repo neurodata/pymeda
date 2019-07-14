@@ -1,3 +1,5 @@
+![Downloads shield](https://img.shields.io/pypi/dm/pymeda.svg)
+
 # PyMEDA
 PyMEDA is a python package for matrix exploratory data analysis (MEDA). It is inspired by the MEDA R package.
 
